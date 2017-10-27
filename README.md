@@ -3,7 +3,7 @@ This readme contains a project that candidates can work on as a take-home projec
 
 ### Instructions:
 1. Solve the problems from this repo
-    * You can use any simulation tool you want but ANSYS is recommended. If you don't have access to simulation software we can provide a machine that has Ansys and you can Remote Desktop into it from web browser. Ask your interviewer for access. The machine will be available to you for only two days.
+    * You can use any simulation tool you want but ANSYS is recommended. If you don't have access to simulation software we can provide a machine that has Ansys and you can Remote Desktop into it from web browser. Ask your interviewer for access. The machine will be available to you for two days.
     * Depending on your time and level of enthusiasm about the problem you can choose to do only parts of the problem
 2. Once done, email the results requested back to your interviewer.
 
