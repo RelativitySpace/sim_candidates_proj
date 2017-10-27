@@ -35,7 +35,7 @@ The goal is to simulate around three inches of straight deposition and capture m
 10. The run will be a transient simulation running for 2 seconds
 
 #### Deliverables
-1. Capture and report maxim depth of molten material through out the simulation for every time step.
+1. Capture and report maximum depth of molten material through out the simulation for every time step.
 2. Animation that shows liquid fraction of the cross section in the middle of the deposited material. For example see below:
 
 ![Liquid fraction of the cross section](/images/liquid_fraction_xsection.png)
