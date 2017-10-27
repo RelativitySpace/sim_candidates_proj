@@ -22,7 +22,7 @@ The deposition and the build platform moves under the laser and wire feed, as wi
 
 Check out the [video](https://github.com/RelativitySpace/sim_candidates_proj/raw/master/videos/print.mp4) of the described process.
 
-The goal is to simulate around three inches of straight deposition and capture maxim depth of molten material throughout the deposition.
+The goal is to simulate around three inches of straight deposition and capture maximum depth of molten material throughout the deposition.
 
 #### Assumptions
 1. Diameter of the wire is 0.03 inches
