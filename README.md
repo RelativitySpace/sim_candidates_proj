@@ -20,7 +20,7 @@ The deposition and the build platform moves under the laser and wire feed as wir
 
 ![Directed Energy Deposition with laser](/images/ded2.png)
 
-Check out the video of the described process in /videos/print.mp4
+Check out the [video](https://github.com/RelativitySpace/sim_candidates_proj/raw/master/videos/print.mp4) of the described process.
 
 The goal is to simulate around three inches of straight deposition and capture maxim depth of molten material throughout the deposition.
 
