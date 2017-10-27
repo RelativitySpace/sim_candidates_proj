@@ -13,9 +13,13 @@ Adding clarification and description as powerpoint, pdf, or readme file is welco
 
 ### Project : Simulating FDM process
 The goal of project is to simulate FDM process using laser as energy source. If you are not familiar with the FDM process read [its Wikipedia page](https://en.wikipedia.org/wiki/Fused_deposition_modeling). The process involves a laser as energy source, a wire feed and build platform which is the same material as wire.
+
 ![Directed Energy Deposition with laser](/images/ded1.png)
+
 The deposition and the build platform moves under the laser and wire feed as wire is pushed out and laser melts the wire and forms the part layer by layer. Alternatively laser and wire feed can move instead of the build plate.
+
 ![Directed Energy Deposition with laser](/images/ded2.png)
+
 Check out the video of the described process in /videos/print.mp4
 
 The goal is to simulate around three inches of straight deposition and capture maxim depth of molten material throughout the deposition.
@@ -33,5 +37,6 @@ The goal is to simulate around three inches of straight deposition and capture m
 #### Deliverables
 1. Capture and report maxim depth of molten material through out the simulation for every time step.
 2. Animation that shows liquid fraction of the cross section in the middle of the deposited material. For example see below:
+
 ![Liquid fraction of the cross section](/images/liquid_fraction_xsection.png)
 
