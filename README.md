@@ -16,7 +16,7 @@ The goal of project is to simulate FDM process using laser as energy source. If 
 
 ![Directed Energy Deposition with laser](/images/ded1.png)
 
-The deposition and the build platform moves under the laser and wire feed as wire is pushed out and laser melts the wire and forms the part layer by layer. Alternatively laser and wire feed can move instead of the build plate.
+The deposition and the build platform moves under the laser and wire feed, as wire is pushed out and laser melts the wire and forms the part layer by layer. Alternatively laser and wire feed can move instead of the build plate.
 
 ![Directed Energy Deposition with laser](/images/ded2.png)
 
