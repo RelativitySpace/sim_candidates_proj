@@ -25,14 +25,18 @@ Check out the [video](https://github.com/RelativitySpace/sim_candidates_proj/raw
 The goal is to simulate around three inches of straight deposition and capture maximum depth of molten material throughout the deposition.
 
 #### Assumptions
-1. Diameter of the wire is 0.03 inches
-2. Wire feed rate is 150 inches per minute
-4. Speed of movement of the build plate with respect to laser and wire feed is 100 inches per minute
-5. Laser spot size is circular with 0.1 inches in diameter
-6. Total laser power absorbed is 3KW
+1. Diameter of the wire is 0.03 inches.
+2. Wire feed rate is 150 inches per minute.
+4. Speed of movement of the build plate with respect to laser and wire feed is 100 inches per minute.
+5. Laser spot size is circular with 0.1 inches in diameter.
+6. Total laser power absorbed is 800W
 7. Feel free to make reasonable assumptions about other details that are not mentioned here. Please include your assumptions when submitting the results
 8. You can use aluminum for material
+9. Assume subtrate and build plate is also aluminum
 10. The run will be a transient simulation running for 2 seconds
+11. You can assume there has been no prior deposits and this is the first layer
+12. Substrate is 1 inches thick and it is not actively being cooled. You can assume room temperature air around it.
+13. In reality there is a very fast stream of shield gas blowing on top of melt pool but for simplicity we don’t need to model it in this exercise.
 
 #### Deliverables
 1. Capture and report maximum depth of molten material throughout the simulation for every time step.
